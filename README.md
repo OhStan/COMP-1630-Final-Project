@@ -1,4 +1,4 @@
-# COMP-1630-Final-Project
+# COMP1630-FinalProject
 This project is intended to use as a tutorial for Structured Query Language (SQL), 
 and serve as final course project for BCIT COMP 1630..
 
