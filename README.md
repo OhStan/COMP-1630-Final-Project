@@ -1,6 +1,6 @@
 # COMP1630-FinalProject
 This project demonstrates the usage of Structured Query Language (SQL), 
-and serve as final course project for BCIT COMP 1630..
+and serve as final course project for BCIT COMP 1630.
 
 In this report, the basic features of SQL, such as commands that allow the creation 
 of databases and table structures, performing various types of data manipulation and 
