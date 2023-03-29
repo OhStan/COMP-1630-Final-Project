@@ -1,4 +1,4 @@
-# COMP1630-FinalProject
+# COMP1630 Advanced Topics in Data Analytics FinalProject
 This project demonstrates the usage of Structured Query Language (SQL), 
 and serves as the final course project for BCIT COMP 1630 - Relational Database Design and SQL.
 
